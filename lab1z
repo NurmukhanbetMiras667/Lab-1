@@ -1,0 +1,17 @@
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+amandasu=("Salem dostar!")
+print(amandasu)
+first_name="Miras"
+last_name="Nurmukhanbet"
+tek_aty=f"{first_name} {last_name}"
+print(tek_aty)
+print("Men birinshi kurs studentimin!")
+a="Men bugin bos emespin"
+print(a)
+a="Men bugin bospin"
+print(a)
+a="Miras"
+b="Nurmukhanbet"
+c="05.06.2005"
+print(a,b,c)
